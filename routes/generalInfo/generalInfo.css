@@ -32,7 +32,7 @@ header {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    gap: 40px;
+    gap: 24px;
 }
 
 .navbar ul li a {
@@ -181,6 +181,11 @@ cursor: pointer;
     background-color: var(--registerBTN);
     border: var(--registerSTROKE) solid 2px;
   }
+  .register-now a{
+    color: white;
+
+  }
+
   .link-btn{
     width: 340px;
     height: 90px;

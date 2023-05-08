@@ -32,7 +32,7 @@ header {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    gap: 40px;
+    gap: 24px;
 }
 
 .navbar ul li a {

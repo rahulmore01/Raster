@@ -300,7 +300,7 @@ html {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    gap: 40px;
+    gap: 24px;
   }
   
   .navbar ul li a {
@@ -347,6 +347,11 @@ font-weight: 900;
     letter-spacing: -1px;
 font-weight: 600;
   }
+  .register-now a{
+    color: white;
+
+  }
+
   .s2-heading{
     font-size: 48px;
     font-weight: 400;
@@ -360,6 +365,7 @@ font-weight: 600;
     opacity:0.6;
     letter-spacing: -2px;
     font-weight: 600;
+    margin-bottom: 100px;
   }
   /* section3 */
   
@@ -397,6 +403,11 @@ font-weight: 600;
     margin-left: 18px;
     margin-right: 18px;
   }
+  .card-details a{
+    color: #222224;
+
+  }
+  
   .s3-card-heading{
   font-size: 20px;
   margin-top: 47px;
